@@ -1,0 +1,11 @@
+C:\Users\WIN10\source\repos\5.haftaodev\bin\Debug\5.haftaodev.exe.config
+C:\Users\WIN10\source\repos\5.haftaodev\bin\Debug\5.haftaodev.exe
+C:\Users\WIN10\source\repos\5.haftaodev\bin\Debug\5.haftaodev.pdb
+C:\Users\WIN10\source\repos\5.haftaodev\obj\Debug\5.haftaodev.csproj.AssemblyReference.cache
+C:\Users\WIN10\source\repos\5.haftaodev\obj\Debug\5.haftaodev.csproj.SuggestedBindingRedirects.cache
+C:\Users\WIN10\source\repos\5.haftaodev\obj\Debug\_5.haftaodev.Form1.resources
+C:\Users\WIN10\source\repos\5.haftaodev\obj\Debug\_5.haftaodev.Properties.Resources.resources
+C:\Users\WIN10\source\repos\5.haftaodev\obj\Debug\5.haftaodev.csproj.GenerateResource.cache
+C:\Users\WIN10\source\repos\5.haftaodev\obj\Debug\5.haftaodev.csproj.CoreCompileInputs.cache
+C:\Users\WIN10\source\repos\5.haftaodev\obj\Debug\5.haftaodev.exe
+C:\Users\WIN10\source\repos\5.haftaodev\obj\Debug\5.haftaodev.pdb
