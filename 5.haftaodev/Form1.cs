@@ -21,7 +21,7 @@ namespace _5.haftaodev
         {
             double v, f, p, o;
             v = Convert.ToInt32(textBox1.Text);
-            f=Convert.ToInt32(textBox2.Text);
+            f = Convert.ToInt32(textBox2.Text);
             p = Convert.ToInt32(textBox3.Text);
             o = (v * 30 / 100) + (f * 50 / 100) + (p * 20 / 100);
             
